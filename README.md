@@ -10,4 +10,6 @@ I took some shortcuts:
   * Multiply three of them and add the fourth; or
   * Multiply two pairs of them and add the result.
  
- 
+`python fractions.py` solves the no-brackets version.
+
+`python rpn.py` solves the version where brackets are allowed.
